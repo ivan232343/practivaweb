@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "practivaweb", "practivaweb.pyproj", "{D5517589-B276-45F7-A0B8-59858EEA9D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5517589-B276-45F7-A0B8-59858EEA9D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5517589-B276-45F7-A0B8-59858EEA9D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5517589-B276-45F7-A0B8-59858EEA9D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5517589-B276-45F7-A0B8-59858EEA9D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06856CC-D34F-4169-BCE3-01523453DBCF}
+	EndGlobalSection
+EndGlobal
